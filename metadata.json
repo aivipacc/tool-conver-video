@@ -1,0 +1,6 @@
+{
+  "name": "MMO Auto Translate Studio",
+  "description": "Phần mềm dịch video chuyên nghiệp tự động tách sub bằng AI Whisper/OCR, dịch phụ đề thông minh với DeepSeek Free/Gemini, lồng tiếng thuyết minh TTS Piper ONNX và muxing đóng gói video đa tỷ lệ chuẩn MMO.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

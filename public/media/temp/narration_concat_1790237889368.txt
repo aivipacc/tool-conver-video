@@ -1,0 +1,4 @@
+file '/app/applet/public/media/temp/silence_0_1790237888290.wav'
+file '/app/applet/public/media/temp/tts_adj_0_1790237888622.wav'
+file '/app/applet/public/media/temp/silence_1_1790237888825.wav'
+file '/app/applet/public/media/temp/tts_adj_1_1790237889173.wav'
